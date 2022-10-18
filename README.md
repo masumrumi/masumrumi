@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+Masum Rumi, A Data Scientist based on New York, US. He has years of experience of working with data. He specializes in AWS, Spark, Python, Java and Java Script. One of his favorite past time is working on web development. He likes to build stuff.
+
 <!---
 masumrumi/masumrumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
