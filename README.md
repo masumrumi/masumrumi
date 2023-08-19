@@ -6,10 +6,16 @@
 - 📫 you can reach me at masumrumi1@gmail.com. you can also reach me in LinkedIn at https://www.linkedin.com/in/masumrumi/. 
 
 
-| Expertise | Skill Level |
-|-----------|-------------|
-| Python    | *****       |
-| SQL       | *****       |
-| Spark     | *****       |
-| AWS       | ****        |
-| Jinja     | ****        |
+| Expertise  | Skill Level |
+|------------|-------------|
+| Python     | *****       |
+| SQL        | *****       |
+| Spark      | *****       |
+| AWS        | ****        |
+| Jinja      | ****        |
+| DBT        | ****        |
+| Docker     | ****        |
+| JavaScript | ****        |
+| React      | ***         |
+| Django     | ****        |
+| TypeScript | ****        |
